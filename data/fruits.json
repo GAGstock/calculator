@@ -822,6 +822,14 @@
       "status": "unobtainable"
     },
     {
+      "name": "Candy Blossom",
+      "image": "images/candyblossom.webp",
+      "rarity": "divine",
+      "baseValue": 100000,
+      "baseWeightKg": 3.00
+      "status": "unobtainable"
+    },
+    {
       "name": "Beanstalk",
       "image": "images/beanstalk.webp",
       "rarity": "prismatic",
