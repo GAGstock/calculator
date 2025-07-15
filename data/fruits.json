@@ -20,7 +20,6 @@
       "rarity": "common",
       "baseValue": 850,
       "baseWeightKg": 0.05,
-      "status": "unobtainable"
     },
     {
       "name": "Chocolate Carrot",
@@ -28,7 +27,6 @@
       "rarity": "common",
       "baseValue": 11000,
       "baseWeightKg": 0.28,
-      "status": "unobtainable"
     },
     {
       "name": "Blueberry",
@@ -64,7 +62,6 @@
       "rarity": "uncommon",
       "baseValue": 50000,
       "baseWeightKg": 4.00,
-      "status": "unobtainable"
     },
     {
       "name": "Nightshade",
@@ -72,7 +69,6 @@
       "rarity": "uncommon",
       "baseValue": 3500,
       "baseWeightKg": 0.50,
-      "status": "unobtainable"
     },
     {
       "name": "Crocus",
@@ -80,7 +76,6 @@
       "rarity": "uncommon",
       "baseValue": 30000,
       "baseWeightKg": 0.28,
-      "status": "unobtainable"
     },
     {
       "name": "Lavender",
@@ -88,7 +83,6 @@
       "rarity": "uncommon",
       "baseValue": 25000,
       "baseWeightKg": 0.28,
-      "status": "unobtainable"
     },
     {
       "name": "Manuka Flower",
@@ -96,7 +90,6 @@
       "rarity": "uncommon",
       "baseValue": 25000,
       "baseWeightKg": 0.30,
-      "status": "unobtainable"
     },
     {
       "name": "Wild Carrot",
@@ -104,7 +97,6 @@
       "rarity": "uncommon",
       "baseValue": 15,
       "baseWeightKg": 0.30,
-      "status": "unobtainable"
     },
     {
       "name": "Blue Lollipop",
@@ -112,7 +104,6 @@
       "rarity": "uncommon",
       "baseValue": 50000,
       "baseWeightKg": 1.00,
-      "status": "unobtainable"
     },
     {
       "name": "Tomato",
@@ -183,7 +174,6 @@
       "rarity": "rare",
       "baseValue": 80000,
       "baseWeightKg": 1.50,
-      "status": "unobtainable"
     },
     {
       "name": "Mint",
@@ -191,7 +181,6 @@
       "rarity": "rare",
       "baseValue": 5250,
       "baseWeightKg": 1.00,
-      "status": "unobtainable"
     },
     {
       "name": "Glowshroom",
@@ -199,7 +188,6 @@
       "rarity": "rare",
       "baseValue": 300,
       "baseWeightKg": 0.75,
-      "status": "unobtainable"
     },
     {
       "name": "Dandelion",
@@ -207,7 +195,6 @@
       "rarity": "rare",
       "baseValue": 50000,
       "baseWeightKg": 4.00,
-      "status": "unobtainable"
     },
     {
       "name": "Nectarshade",
@@ -215,7 +202,6 @@
       "rarity": "rare",
       "baseValue": 50000,
       "baseWeightKg": 0.80,
-      "status": "unobtainable"
     },
     {
       "name": "Succulent",
@@ -223,7 +209,6 @@
       "rarity": "rare",
       "baseValue": 25000,
       "baseWeightKg": 5.00,
-      "status": "unobtainable"
     },
     {
       "name": "Bee Balm",
@@ -231,7 +216,6 @@
       "rarity": "rare",
       "baseValue": 18000,
       "baseWeightKg": 1.00,
-      "status": "unobtainable"
     },
     {
       "name": "Pear",
@@ -239,7 +223,6 @@
       "rarity": "rare",
       "baseValue": 20000,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Delphinium",
@@ -247,7 +230,6 @@
       "rarity": "rare",
       "baseValue": 24000,
       "baseWeightKg": 0.36,
-      "status": "unobtainable"
     },
     {
       "name": "Liberty Lily",
@@ -255,7 +237,6 @@
       "rarity": "rare",
       "baseValue": 30000,
       "baseWeightKg": 6.50,
-      "status": "unobtainable"
     },
     {
       "name": "Noble Flower",
@@ -263,7 +244,6 @@
       "rarity": "rare",
       "baseValue": 20000,
       "baseWeightKg": 5.00,
-      "status": "unobtainable"
     },
     {
       "name": "Watermelon",
@@ -355,7 +335,6 @@
       "rarity": "legendary",
       "baseValue": 3500,
       "baseWeightKg": 1.00,
-      "status": "unobtainable"
     },
     {
       "name": "Durian",
@@ -363,7 +342,6 @@
       "rarity": "legendary",
       "baseValue": 7500,
       "baseWeightKg": 8.00,
-      "status": "unobtainable"
     },
     {
       "name": "Papaya",
@@ -371,7 +349,6 @@
       "rarity": "legendary",
       "baseValue": 1000,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Moonflower",
@@ -379,7 +356,6 @@
       "rarity": "legendary",
       "baseValue": 15,
       "baseWeightKg": 0.30,
-      "status": "unobtainable"
     },
     {
       "name": "Starfruit",
@@ -387,7 +363,6 @@
       "rarity": "legendary",
       "baseValue": 15,
       "baseWeightKg": 0.30,
-      "status": "unobtainable"
     },
     {
       "name": "Lumira",
@@ -395,7 +370,6 @@
       "rarity": "legendary",
       "baseValue": 85000,
       "baseWeightKg": 6.00,
-      "status": "unobtainable"
     },
     {
       "name": "Violet Corn",
@@ -403,7 +377,6 @@
       "rarity": "legendary",
       "baseValue": 50000,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Nectar Thorn",
@@ -411,7 +384,6 @@
       "rarity": "legendary",
       "baseValue": 40000,
       "baseWeightKg": 7.00,
-      "status": "unobtainable"
     },
     {
       "name": "Cantaloupe",
@@ -419,7 +391,6 @@
       "rarity": "legendary",
       "baseValue": 15,
       "baseWeightKg": 0.30,
-      "status": "unobtainable"
     },
     {
       "name": "Firework Flower",
@@ -427,7 +398,6 @@
       "rarity": "legendary",
       "baseValue": 151000,
       "baseWeightKg": 20.00,
-      "status": "unobtainable"
     },
     {
       "name": "Peach",
@@ -533,7 +503,6 @@
       "rarity": "mythical",
       "baseValue": 2500,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Eggplant",
@@ -541,7 +510,6 @@
       "rarity": "mythical",
       "baseValue": 12000,
       "baseWeightKg": 5.00,
-      "status": "unobtainable"
     },
     {
       "name": "Passionfruit",
@@ -549,7 +517,6 @@
       "rarity": "mythical",
       "baseValue": 3550,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Lemon",
@@ -557,7 +524,6 @@
       "rarity": "mythical",
       "baseValue": 350,
       "baseWeightKg": 1.00,
-      "status": "unobtainable"
     },
     {
       "name": "Moon Melon",
@@ -565,7 +531,6 @@
       "rarity": "mythical",
       "baseValue": 18000,
       "baseWeightKg": 8.00,
-      "status": "unobtainable"
     },
     {
       "name": "Blood Banana",
@@ -573,7 +538,6 @@
       "rarity": "mythical",
       "baseValue": 6000,
       "baseWeightKg": 1.50,
-      "status": "unobtainable"
     },
     {
       "name": "Celestiberry",
@@ -581,7 +545,6 @@
       "rarity": "mythical",
       "baseValue": 10000,
       "baseWeightKg": 2.00,
-      "status": "unobtainable"
     },
     {
       "name": "Nectarine",
@@ -589,7 +552,6 @@
       "rarity": "mythical",
       "baseValue": 48000,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Honeysuckle",
@@ -597,7 +559,6 @@
       "rarity": "mythical",
       "baseValue": 100000,
       "baseWeightKg": 12.00,
-      "status": "unobtainable"
     },
     {
       "name": "Suncoil",
@@ -605,7 +566,6 @@
       "rarity": "mythical",
       "baseValue": 80000,
       "baseWeightKg": 10.00,
-      "status": "unobtainable"
     },
     {
       "name": "Bendboo",
@@ -613,7 +573,6 @@
       "rarity": "mythical",
       "baseValue": 155000,
       "baseWeightKg": 18.00,
-      "status": "unobtainable"
     },
     {
       "name": "Cocovine",
@@ -621,7 +580,6 @@
       "rarity": "mythical",
       "baseValue": 66666,
       "baseWeightKg": 14.00,
-      "status": "unobtainable"
     },
     {
       "name": "Parasol Flower",
@@ -629,7 +587,6 @@
       "rarity": "mythical",
       "baseValue": 200000,
       "baseWeightKg": 6.00,
-      "status": "unobtainable"
     },
     {
       "name": "Lily Of The Valley",
@@ -637,7 +594,6 @@
       "rarity": "mythical",
       "baseValue": 49120,
       "baseWeightKg": 6.00,
-      "status": "unobtainable"
     },
     {
       "name": "Grape",
@@ -715,7 +671,6 @@
       "rarity": "divine",
       "baseValue": 500,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Crimson Vine",
@@ -723,7 +678,6 @@
       "rarity": "divine",
       "baseValue": 1250,
       "baseWeightKg": 1.00,
-      "status": "unobtainable"
     },
     {
       "name": "Candy Blossom",
@@ -731,7 +685,6 @@
       "rarity": "divine",
       "baseValue": 89000,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Lotus",
@@ -739,7 +692,6 @@
       "rarity": "divine",
       "baseValue": 35000,
       "baseWeightKg": 20.00,
-      "status": "unobtainable"
     },
     {
       "name": "Venus Fly Trap",
@@ -747,7 +699,6 @@
       "rarity": "divine",
       "baseValue": 85000,
       "baseWeightKg": 10.00,
-      "status": "unobtainable"
     },
     {
       "name": "Cursed Fruit",
@@ -755,7 +706,6 @@
       "rarity": "divine",
       "baseValue": 25570,
       "baseWeightKg": 30.00,
-      "status": "unobtainable"
     },
     {
       "name": "Soul Fruit",
@@ -763,7 +713,6 @@
       "rarity": "divine",
       "baseValue": 7750,
       "baseWeightKg": 25.00,
-      "status": "unobtainable"
     },
     {
       "name": "Mega Mushroom",
@@ -771,7 +720,6 @@
       "rarity": "divine",
       "baseValue": 500,
       "baseWeightKg": 70,
-      "status": "unobtainable"
     },
     {
       "name": "Moon Blossom",
@@ -779,7 +727,6 @@
       "rarity": "divine",
       "baseValue": 66666,
       "baseWeightKg": 3.00,
-      "status": "unobtainable"
     },
     {
       "name": "Moon Mango",
@@ -787,7 +734,6 @@
       "rarity": "divine",
       "baseValue": 84000,
       "baseWeightKg": 18.00,
-      "status": "unobtainable"
     },
     {
       "name": "Hive Fruit",
@@ -795,7 +741,6 @@
       "rarity": "divine",
       "baseValue": 62000,
       "baseWeightKg": 8.00,
-      "status": "unobtainable"
     },
     {
       "name": "Dragon Pepper",
@@ -803,7 +748,6 @@
       "rarity": "divine",
       "baseValue": 81000,
       "baseWeightKg": 6.00,
-      "status": "unobtainable"
     },
     {
       "name": "Rosy Delight",
@@ -811,7 +755,6 @@
       "rarity": "divine",
       "baseValue": 69000,
       "baseWeightKg": 10.00,
-      "status": "unobtainable"
     },
     {
       "name": "Traveler's Fruit",
@@ -819,7 +762,6 @@
       "rarity": "divine",
       "baseValue": 70000,
       "baseWeightKg": 15.00,
-      "status": "unobtainable"
     },
     {
       "name": "Beanstalk",
@@ -862,7 +804,6 @@
       "rarity": "prismatic",
       "baseValue": 77000,
       "baseWeightKg": 18.00,
-      "status": "unobtainable"
     },
     {
       "name": "Bone Blossom",
