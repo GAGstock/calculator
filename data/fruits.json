@@ -997,7 +997,7 @@
     {
       "id": "oldamber",
       "name": "🟠Old Amber",
-      "multiplier": 19.99
+      "multiplier": 19
     },
     {
       "id": "zombified",
@@ -1017,7 +1017,7 @@
     {
       "id": "ancientamber",
       "name": "🟠Ancient Amber",
-      "multiplier": 49.99
+      "multiplier": 49
     },
     {
       "id": "friendbound",
