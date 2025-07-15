@@ -1082,6 +1082,11 @@
       "name": "🟣Voidtouched",
       "multiplier": 135.0,
       "admin": true
+    },
+    {
+      "id": "dawnbound",
+      "name": "🌻Dawnbound",
+      "multiplier": 150.0,
     }
   ]
 }
