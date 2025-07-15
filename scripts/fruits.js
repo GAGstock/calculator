@@ -3,7 +3,7 @@ let mutations = [];
 let searchQuery = '';
 let selectedRarities = [];
 let selectedFruit = null;
-let showUnobtainable = true; // default to show all
+let showUnobtainable = false; // default to show all
 
 document.getElementById('searchInput').addEventListener('input', (e) => {
     searchQuery = e.target.value.toLowerCase();
