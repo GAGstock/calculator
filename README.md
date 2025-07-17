@@ -3,8 +3,8 @@ Best grow a garden fruit value calculator!
 # Features:
 <li>
 Good UI
-Accurate Calculations
-All Grow A Garden Crops (including unreleased)
-Updated weekly
-And more!
+  Accurate Calculations
+  All Grow A Garden Crops (including unreleased)
+  Updated weekly
+  And more!
 </li>
